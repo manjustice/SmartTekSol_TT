@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+    <data>
+        <record id="demo_menu_action" model="ir.actions.act_window">
+            <field name="name">Demo</field>
+            <field name="res_model">demo.demo</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+        <menuitem id="demo_menu" name="Demo" sequence="10"/>
+        <menuitem id="demo_menu_tree" name="Demo Tree View" parent="demo_menu" action="demo_menu_action" sequence="10"/>
+        <menuitem id="demo_menu_form" name="Demo Form View" parent="demo_menu" action="demo_menu_action" sequence="20"/>
+    </data>
+</odoo>
