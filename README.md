@@ -2,9 +2,9 @@
 
 This is a custom module for Odoo 16 that adds a new object called "demo.demo" with a field "name" of type "char". It also includes separate menu, tree, and form views for the "demo.demo" object.
 
-![Screenshot from 2023-06-27 09-57-52](https://github.com/manjustice/SmartTekSol_TT/assets/81980801/d9aa65e0-15c9-428e-bcb5-dcf677fcd729)
+![Screenshot from 2023-06-27 09-58-04](https://github.com/manjustice/SmartTekSol_TT/assets/81980801/67631208-6873-44c8-ba2f-dafa2d8ee09a)
 
-![Screenshot from 2023-06-27 09-58-04](https://github.com/manjustice/SmartTekSol_TT/assets/81980801/fec73d86-f8b9-4c9e-9cf3-4c4c44d4d6bb)
+![Screenshot from 2023-06-27 09-57-52](https://github.com/manjustice/SmartTekSol_TT/assets/81980801/a8878bb6-485d-45da-aa14-489da1f7aa0c)
 
 ## Features
 
